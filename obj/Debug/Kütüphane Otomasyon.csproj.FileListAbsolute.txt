@@ -1,0 +1,33 @@
+C:\Users\kerim\Desktop\Program Çalışmaları\Visual Studio Çalışmaları\C# Form\Kütüphane Otomasyon\bin\Debug\Kütüphane Otomasyon.exe.config
+C:\Users\kerim\Desktop\Program Çalışmaları\Visual Studio Çalışmaları\C# Form\Kütüphane Otomasyon\bin\Debug\Kütüphane Otomasyon.exe
+C:\Users\kerim\Desktop\Program Çalışmaları\Visual Studio Çalışmaları\C# Form\Kütüphane Otomasyon\bin\Debug\Kütüphane Otomasyon.pdb
+C:\Users\kerim\Desktop\Program Çalışmaları\Visual Studio Çalışmaları\C# Form\Kütüphane Otomasyon\obj\Debug\Kütüphane Otomasyon.csprojAssemblyReference.cache
+C:\Users\kerim\Desktop\Program Çalışmaları\Visual Studio Çalışmaları\C# Form\Kütüphane Otomasyon\obj\Debug\Kütüphane_Otomasyon.kutuphane.resources
+C:\Users\kerim\Desktop\Program Çalışmaları\Visual Studio Çalışmaları\C# Form\Kütüphane Otomasyon\obj\Debug\Kütüphane_Otomasyon.Properties.Resources.resources
+C:\Users\kerim\Desktop\Program Çalışmaları\Visual Studio Çalışmaları\C# Form\Kütüphane Otomasyon\obj\Debug\Kütüphane Otomasyon.csproj.GenerateResource.cache
+C:\Users\kerim\Desktop\Program Çalışmaları\Visual Studio Çalışmaları\C# Form\Kütüphane Otomasyon\obj\Debug\Kütüphane Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\kerim\Desktop\Program Çalışmaları\Visual Studio Çalışmaları\C# Form\Kütüphane Otomasyon\obj\Debug\Kütüphane Otomasyon.exe
+C:\Users\kerim\Desktop\Program Çalışmaları\Visual Studio Çalışmaları\C# Form\Kütüphane Otomasyon\obj\Debug\Kütüphane Otomasyon.pdb
+C:\Users\kerim\Desktop\Program Çalışmaları\Visual Studio Çalışmaları\C# Form\Kütüphane Otomasyon\obj\Debug\Kütüphane_Otomasyon.login.resources
+C:\Users\kerim\Desktop\Program Çalışmaları\Visual Studio Çalışmaları\C# Form\Kütüphane Otomasyon\obj\Debug\Kütüphane_Otomasyon.register.resources
+C:\Users\kerim\Desktop\Program Çalışmaları\Visual Studio Çalışmaları\C# Form\Kütüphane Otomasyon\obj\Debug\Kütüphane_Otomasyon.islemyap.resources
+C:\Users\kerim\Desktop\Dersler\Veri Tabanı\Proje 1 Masaüstü Uygulaması\Kütüphane Otomasyon\bin\Debug\Kütüphane Otomasyon.exe.config
+C:\Users\kerim\Desktop\Dersler\Veri Tabanı\Proje 1 Masaüstü Uygulaması\Kütüphane Otomasyon\bin\Debug\Kütüphane Otomasyon.exe
+C:\Users\kerim\Desktop\Dersler\Veri Tabanı\Proje 1 Masaüstü Uygulaması\Kütüphane Otomasyon\bin\Debug\Kütüphane Otomasyon.pdb
+C:\Users\kerim\Desktop\Dersler\Veri Tabanı\Proje 1 Masaüstü Uygulaması\Kütüphane Otomasyon\obj\Debug\Kütüphane Otomasyon.csproj.AssemblyReference.cache
+C:\Users\kerim\Desktop\Dersler\Veri Tabanı\Proje 1 Masaüstü Uygulaması\Kütüphane Otomasyon\obj\Debug\Kütüphane_Otomasyon.IslemYap.resources
+C:\Users\kerim\Desktop\Dersler\Veri Tabanı\Proje 1 Masaüstü Uygulaması\Kütüphane Otomasyon\obj\Debug\Kütüphane_Otomasyon.KitapEkle.resources
+C:\Users\kerim\Desktop\Dersler\Veri Tabanı\Proje 1 Masaüstü Uygulaması\Kütüphane Otomasyon\obj\Debug\Kütüphane_Otomasyon.Kutuphane.resources
+C:\Users\kerim\Desktop\Dersler\Veri Tabanı\Proje 1 Masaüstü Uygulaması\Kütüphane Otomasyon\obj\Debug\Kütüphane_Otomasyon.Login.resources
+C:\Users\kerim\Desktop\Dersler\Veri Tabanı\Proje 1 Masaüstü Uygulaması\Kütüphane Otomasyon\obj\Debug\Kütüphane_Otomasyon.Properties.Resources.resources
+C:\Users\kerim\Desktop\Dersler\Veri Tabanı\Proje 1 Masaüstü Uygulaması\Kütüphane Otomasyon\obj\Debug\Kütüphane_Otomasyon.Register.resources
+C:\Users\kerim\Desktop\Dersler\Veri Tabanı\Proje 1 Masaüstü Uygulaması\Kütüphane Otomasyon\obj\Debug\Kütüphane Otomasyon.csproj.GenerateResource.cache
+C:\Users\kerim\Desktop\Dersler\Veri Tabanı\Proje 1 Masaüstü Uygulaması\Kütüphane Otomasyon\obj\Debug\Kütüphane Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\kerim\Desktop\Dersler\Veri Tabanı\Proje 1 Masaüstü Uygulaması\Kütüphane Otomasyon\obj\Debug\Kütüphane Otomasyon.exe
+C:\Users\kerim\Desktop\Dersler\Veri Tabanı\Proje 1 Masaüstü Uygulaması\Kütüphane Otomasyon\obj\Debug\Kütüphane Otomasyon.pdb
+C:\Users\kerim\Desktop\Dersler\Veri Tabanı\Proje 1 Masaüstü Uygulaması\Kütüphane Otomasyon\obj\Debug\Kütüphane_Otomasyon.KitapGuncelle.resources
+C:\Users\kerim\Desktop\Dersler\Veri Tabanı\Proje 1 Masaüstü Uygulaması\Kütüphane Otomasyon\obj\Debug\Kütüphane_Otomasyon.OgrenciEkle.resources
+C:\Users\kerim\Desktop\Dersler\Veri Tabanı\Proje 1 Masaüstü Uygulaması\Kütüphane Otomasyon\obj\Debug\Kütüphane_Otomasyon.KitapSec.resources
+C:\Users\kerim\Desktop\Dersler\Veri Tabanı\Proje 1 Masaüstü Uygulaması\Kütüphane Otomasyon\bin\Debug\WebDriver.dll
+C:\Users\kerim\Desktop\Dersler\Veri Tabanı\Proje 1 Masaüstü Uygulaması\Kütüphane Otomasyon\obj\Debug\Kütüphane Otomasyon.csproj.CopyComplete
+C:\Users\kerim\Desktop\Dersler\Veri Tabanı\Proje 1 Masaüstü Uygulaması\Kütüphane Otomasyon\obj\Debug\Kütüphane Otomasyon.csproj.SuggestedBindingRedirects.cache
