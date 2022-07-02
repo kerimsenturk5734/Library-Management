@@ -16,7 +16,7 @@ namespace Kütüphane_Otomasyon
     public partial class Login : Form
     {
         public static int a;
-        getData data = new getData();
+        
 
         connector conn;
         Kutuphane kutuphane;

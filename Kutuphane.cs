@@ -14,7 +14,7 @@ namespace Kütüphane_Otomasyon
 {
     public partial class Kutuphane : Form
     {
-        getData data = new getData();
+        
         DataSet ds;
         Book book = new Book();
         Student student = new Student();
