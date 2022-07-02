@@ -1,5 +1,0 @@
-authentication-mode=0
-server.
-database-name=kutuphane
-user=
-password=
