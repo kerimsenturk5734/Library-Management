@@ -1,9 +1,5 @@
 # Library-Management
-This repository contains a library information management system for public or private library services.
-<br/>
-<div>
-  <p><b>This project developed for "Database Management Systems" course final grading in grade 2 term spring.<b/><p/>
-<div/>
+
 
 <div id="top"></div>
 <!--
@@ -35,23 +31,26 @@ This repository contains a library information management system for public or p
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/kerimsenturk5734/Library-Management">
+    <img src="https://raw.githubusercontent.com/kerimsenturk5734/Library-Management/main/bin/Debug/books-128.ico" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Library Management</h3>
 
   <p align="center">
-    project_description
+   This repository contains a library information management system for public or private library services.
+    <br/>
+    <div>
+      <p><b>This project developed for "Database Management Systems" course final grading in grade 2 term spring.<b/><p/>
+    <div/>
     <br />
     <a href="https://github.com/kerimsenturk5734/Library-Management"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    
     ·
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </div>
 
