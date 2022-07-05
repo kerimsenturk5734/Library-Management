@@ -21,7 +21,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <p align="center">
-<a href="https://github.com/kerimsenturk5734/Library-Management/blob/master/LICENSE" target="blank">
+<a href="https://github.com/kerimsenturk5734/Library-Management/blob/main/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/kerimsenturk5734/Library-Management?style=flat-square" alt="Library-Management license" />
 </a>
 <a href="https://github.com/kerimsenturk5734/Library-Management/fork" target="blank">
