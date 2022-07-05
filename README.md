@@ -22,7 +22,7 @@
 -->
 <p align="center">
 <a href="https://github.com/kerimsenturk5734/Library-Management/blob/main/LICENSE.md" target="blank">
-<img src="https://img.shields.io/github/license/kerimsenturk5734/Library-Management?style=flat-square" alt="Library-Management license" />
+<img src="https://img.shields.io/github/license/kerimsenturk5734/Library-Management? style=flat-square" alt="Library-Management license" />
 </a>
 <a href="https://github.com/kerimsenturk5734/Library-Management/fork" target="blank">
 <img src="https://img.shields.io/github/forks/kerimsenturk5734/Library-Management?style=flat-square" alt="Library-Management forks"/>
