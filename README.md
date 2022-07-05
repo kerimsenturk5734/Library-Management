@@ -54,7 +54,7 @@
     <br/>
     <div>
       ```
-        🟥 This project developed for final grading of "Database Management Systems" course  in grade 2 term spring.🟥
+        🟥This project developed for final grading of "Database Management Systems" course  in grade 2 term spring.🟥
       ```
     <div/>
     <br />
