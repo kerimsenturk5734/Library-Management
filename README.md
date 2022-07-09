@@ -60,7 +60,7 @@
     <br />
     <a href="https://github.com/kerimsenturk5734/Library-Management"><strong>Explore the docs »</strong></a>
         <br/>
-   ·<a href="https://github.com/github_username/repo_name/issues">Report Bug</a>·
+   ·<a href="https://github.com/kerimsenturk5734/Library-Management/issues">Report Bug</a>·
   </p>
 </div>
 
@@ -144,18 +144,25 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
+  #### a-)Database Creation
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/kerimsenturk5734/Library-Management
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+2. Run ```kutuphane.sql``` with MSSM
+   
+3. If there is error line in kutuphane.sql, delete error lines!!!
+  
+4. Execute .sql file and check existing of  'kutuphane' in your databases.
+  
+  #### b-)Database Connection to APP
+1. Run ```bin\Debug\ConnectionToDatabase.exe ``` 
+  
+2. Configure with your database information and connect.
+   
+3. Now you can run ```Kütüphane Otomasyon.sln```.
+  
+
 
 
 <!-- CONTACT -->
