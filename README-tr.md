@@ -41,9 +41,17 @@
       ```
     <div/>
     <br />
-    <a href="https://github.com/kerimsenturk5734/Library-Management"><strong>Dokümanlara Keşfet »</strong></a>
+    <a href="https://github.com/kerimsenturk5734/Library-Management"><strong>Dokümanları Keşfet »</strong></a>
         <br/>
    ·<a href="https://github.com/kerimsenturk5734/Library-Management/issues">Bug Rapor Et</a>·
+      <br/>
+      <br/>
+    <a href="https://github.com/kerimsenturk5734/Library-Management/blob/main/README-tr.md" target="_blank" rel="noreferrer"> 
+      <img src="https://emojigraph.org/media/twitter/flag-turkey_1f1f9-1f1f7.png" alt="tr" width="30" height="30"/>Türkçe
+    </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/kerimsenturk5734/Library-Management/blob/main/README.md" target="_blank" rel="noreferrer"> 
+      <img src="https://preview.redd.it/68cdrlhal0hz.png?auto=webp&s=a7e6c8f70065646b72d45fc6ba12c6bb9bf56923" alt="en" width="30" height="20"/>English
+    </a>  
   </p>
 </div>
 
