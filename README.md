@@ -61,7 +61,14 @@
     <a href="https://github.com/kerimsenturk5734/Library-Management"><strong>Explore the docs »</strong></a>
         <br/>
    ·<a href="https://github.com/kerimsenturk5734/Library-Management/issues">Report Bug</a>·
-  </p>
+      <br/>
+      <br/><br/>
+    <a href="https://github.com/kerimsenturk5734/Library-Management/blob/main/README-tr.md" target="_blank" rel="noreferrer"> 
+      <img src="https://emojigraph.org/media/twitter/flag-turkey_1f1f9-1f1f7.png" alt="tr" width="30" height="30"/>```Türkçe```
+    </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/kerimsenturk5734/Library-Management/blob/main/README.md" target="_blank" rel="noreferrer"> 
+      <img src="https://preview.redd.it/68cdrlhal0hz.png?auto=webp&s=a7e6c8f70065646b72d45fc6ba12c6bb9bf56923" alt="en" width="30" height="20"/>```English```
+    </a>  
 </div>
 
 
@@ -69,7 +76,7 @@
 <!-- TABLE OF CONTENTS -->
 <div align="left">
     <details>
-      <summary>English</summary>
+      <summary>Contents</summary>
       <ol>
         <li>
           <a href="#about-the-project">About The Project</a>
@@ -87,26 +94,6 @@
         <li><a href="#contact">Contact</a></li>
       </ol>
     </details>
-   <details>
-      <summary>Türkçe</summary>
-      <ol>
-        <li>
-          <a href="#about-the-project">About The Project</a>
-          <ul>
-            <li><a href="#built-with">Built With</a></li>
-          </ul>
-        </li>
-        <li>
-          <a href="#getting-started">Getting Started</a>
-          <ul>
-            <li><a href="#prerequisites">Prerequisites</a></li>
-            <li><a href="#installation">Installation</a></li>
-          </ul>
-        </li>
-        <li><a href="#contact">Contact</a></li>
-      </ol>
-    </details>
-  
 <div/>
 
 
