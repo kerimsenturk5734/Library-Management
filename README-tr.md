@@ -31,6 +31,7 @@
   <p align="center">
     <a href="https://github.com/kerimsenturk5734/Library-Management">
     <img src="https://raw.githubusercontent.com/kerimsenturk5734/Library-Management/main/bin/Debug/books-128.ico" alt="Logo" width="80" height="80">
+      <br/>
     </a>
      Bu repository halka açık veya özel kütüphaneler için kütüphane bilgi yönetim sistemi içerir.
     <br/>
@@ -54,16 +55,16 @@
       <summary>İçerik</summary>
       <ol>
         <li>
-          <a href="#about-the-project">Proje Hakkında</a>
+          <a href="#Proje-Hakkında">Proje Hakkında</a>
           <ul>
-            <li><a href="#built-with">Geliştirilen Araçlar</a></li>
+            <li><a href="#Geliştirilen-Araçlar">Geliştirilen Araçlar</a></li>
           </ul>
         </li>
         <li>
-          <a href="#getting-started">Başlarken</a>
+          <a href="#başlarken">Başlarken</a>
           <ul>
-            <li><a href="#prerequisites">Ön Gereksinimler</a></li>
-            <li><a href="#installation">Yükleme</a></li>
+            <li><a href="#Ön-Gereksinimler">Ön Gereksinimler</a></li>
+            <li><a href="#yükleme">Yükleme</a></li>
           </ul>
         </li>
         <li><a href="#contact">İletişim</a></li>
